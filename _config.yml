@@ -1,0 +1,9 @@
+title: ハーモグロー会計事務所
+description: お客様の成長と調和を大切にするパートナーとして。親しみやすく、頼れる存在を目指しています。
+theme: jekyll-theme-slate # Setting a theme is required for GitHub Pages, but we will override the layout
+defaults:
+  - scope:
+      path: ""
+      type: "pages" # applies to all pages (markdown/html)
+    values:
+      layout: "default"
