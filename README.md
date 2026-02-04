@@ -19,10 +19,12 @@
 <summary><b>メニュー (Menu)</b></summary>
 
 
-- [事務所紹介](introduction.md)
-- [業務内容](services.md)
-- [料金一覧](fees.md)
-- [事務所概要](overview.md)
+<ul>
+  <li><a href="introduction.md">事務所紹介</a></li>
+  <li><a href="services.md">業務内容</a></li>
+  <li><a href="fees.md">料金一覧</a></li>
+  <li><a href="overview.md">事務所概要</a></li>
+</ul>
 
 </details>
 
