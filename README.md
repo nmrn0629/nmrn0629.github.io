@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.jpg" alt="Harmogrow Accounting Office Logo" width="300">
+  <img src="assets/logo.jpg" alt="Harmogrow Accounting Office Logo" width="300">
   <h1>ハーモグロー会計事務所</h1>
   <p>Harmogrow Accounting Office</p>
 </div>
